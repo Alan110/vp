@@ -1,4 +1,4 @@
-# [ColorPK.com](http://react.colorpk.com)   (version 1.0)
+# [ColorPK.com](http://react.colorpk.com)   (version 1.0)  （学习示例项目）
 ![logo](https://github.com/zj1926/vp/blob/master/logo.jpg "colorpk.com")
 ## Highlight
 - ant.design
